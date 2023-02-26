@@ -1,0 +1,20 @@
+#search-box {
+    width: 500px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding-left: 20px;
+}
+
+#btn-primary {
+    width: 150px;
+    height: 64px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 17px 39px;
+    border-radius: 8px;
+}
